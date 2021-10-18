@@ -14,7 +14,6 @@
 		B6DC7EB3271C37D00016C2AB /* Rock_Paper_ScissorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DC7EB2271C37D00016C2AB /* Rock_Paper_ScissorsTests.swift */; };
 		B6DC7EBD271C37D00016C2AB /* Rock_Paper_ScissorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DC7EBC271C37D00016C2AB /* Rock_Paper_ScissorsUITests.swift */; };
 		B6DC7EBF271C37D00016C2AB /* Rock_Paper_ScissorsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DC7EBE271C37D00016C2AB /* Rock_Paper_ScissorsUITestsLaunchTests.swift */; };
-		B6DC7ECC271C50070016C2AB /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DC7ECB271C50070016C2AB /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +44,6 @@
 		B6DC7EB8271C37D00016C2AB /* Rock Paper ScissorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rock Paper ScissorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6DC7EBC271C37D00016C2AB /* Rock_Paper_ScissorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rock_Paper_ScissorsUITests.swift; sourceTree = "<group>"; };
 		B6DC7EBE271C37D00016C2AB /* Rock_Paper_ScissorsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rock_Paper_ScissorsUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		B6DC7ECB271C50070016C2AB /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +96,6 @@
 			children = (
 				B6DC7EA1271C37CC0016C2AB /* Rock_Paper_ScissorsApp.swift */,
 				B6DC7EA3271C37CC0016C2AB /* ContentView.swift */,
-				B6DC7ECB271C50070016C2AB /* SwiftUIView.swift */,
 				B6DC7EA5271C37D00016C2AB /* Assets.xcassets */,
 				B6DC7EA7271C37D00016C2AB /* Preview Content */,
 			);
@@ -262,7 +259,6 @@
 			files = (
 				B6DC7EA4271C37CC0016C2AB /* ContentView.swift in Sources */,
 				B6DC7EA2271C37CC0016C2AB /* Rock_Paper_ScissorsApp.swift in Sources */,
-				B6DC7ECC271C50070016C2AB /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

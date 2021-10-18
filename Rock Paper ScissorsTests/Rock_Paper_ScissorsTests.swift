@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Rock_Paper_Scissors
+//@testable import Rock_Paper_Scissors
 
 class Rock_Paper_ScissorsTests: XCTestCase {
 
